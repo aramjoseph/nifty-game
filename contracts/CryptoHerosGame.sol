@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.5.16;
 
 import 'zeppelin-solidity/contracts/ownership/Ownable.sol';
 import './CryptoHerosToken.sol';
